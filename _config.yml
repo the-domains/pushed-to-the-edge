@@ -1,0 +1,28 @@
+name: Pushed To The Edge
+favicon: null
+layout_spectrum: 0.6606751990038902
+typography_spectrum: 0.5313599584624171
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6672273334115744
+  lightness: 0.27875856310129166
+  saturation: 0.7401879373937845
+  rhythmicContrast: 0.2651574194896966
+purpose: []
